@@ -8,5 +8,6 @@ Script git Atualizar Repositorios OK
 ##
 <div>
 <img align="center" alt="Rflinux-2-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
-<img align="center" alt="Rflinux-2-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />  
+<img align="center" alt="Rflinux-2-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /> 
+<img align="center" alt="Rflinux-2-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </div>
