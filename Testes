@@ -1,10 +1,5 @@
-#Testes de Acesso no meu repositorio Git via SSH
-#Continuação de teste repositorio Git
-
-#Feito Script para automatizar as ações do Git para o GitHub
-
-
 #Colocando informações sobre docker-compose, o que será colocado dentro do docker-compose.yml
+#
 
 version: '1.17.1'
 
@@ -80,7 +75,7 @@ services:
     ports:
       - '3000:3000'
     environment: 
-      - GF_INSTALL_PLUGINS=alexanderzobnin-zabbix-app
+      - GF_INSTALL_PLUGINS=renato-zabbix-app
     depends_on:
       - mysql
       - zabbix-server
