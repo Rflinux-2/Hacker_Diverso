@@ -1,5 +1,5 @@
 #Colocando informações sobre docker-compose, o que será colocado dentro do docker-compose.yml
-#
+# Atualizando no Git
 
 version: '1.17.1'
 
